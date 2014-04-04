@@ -1,1 +1,8 @@
-Python program implementing the Spotify IDE, depth first searches, and JSON to create a list of tracks to spell out sent text string.
+Create a list of song tracks that spell out text input in Python.
+
+PYTHON CONCEPTS:
+ • IDE Usage (Spotify specific)
+ • Stacks
+ • Depth First Search
+ • JSON
+ • SYS I/O
